@@ -40,7 +40,7 @@
     @media (max-width: 768px) {
       .carousel-item {
         height: 300px; }
-}
+    }
 
     .carousel-item img {
       width: 100%;
@@ -118,7 +118,7 @@
 
 <header class="custom-header shadow-sm sticky-top">
   <div class="container d-flex justify-content-between align-items-center">
-    <h4 class="m-0 text-white fw-bold">เต็มสิบ ชาบูชาม : Temsib Shabu 滿十涮鍋 นครปฐม</h4>
+    <h4 class="m-0 text-white fw-bold">เต็มสิบ ชาบูชาม : Temsib Shabu</h4>
     <nav>
       <ul class="nav align-items-center">
         <li class="nav-item"><a href="index.html" class="nav-link text-white">หน้าแรก</a></li>
@@ -136,22 +136,21 @@
   </div>
   <div class="carousel-inner shadow-sm">
     <div class="carousel-item active">
-      <img src="https://postimg.cc/LJvDzmcC" alt="
-เต็มสิบ ชาบูชาม : Temsib Shabu 滿十涮鍋 นครปฐม">
+      <img src="https://i.postimg.cc/LJvDzmcC/image.jpg" alt="เต็มสิบ ชาบูชาม : Temsib Shabu">
       <div class="carousel-caption">
         <h2 class="fw-bold">เต็มสิบ ชาบูชาม : Temsib Shabu 滿十涮鍋 นครปฐม</h2>
         <p>⏰ เปิด 11.00 - 21.00 น. (ครัวปิด 20.30น.)</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="https://postimg.cc/McCQB4p4" alt="เต็มสิบ ชาบูชาม">
+      <img src="https://i.postimg.cc/McCQB4p4/image.jpg" alt="เต็มสิบ ชาบูชาม">
       <div class="carousel-caption">
         <h2 class="fw-bold">เต็มสิบ ชาบูชาม : Temsib Shabu</h2>
         <p>เต็มสิบ ชาบูชาม : Temsib Shabu 🥢🔥</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="https://postimg.cc/r0gRHpJk" alt="เมนูหมาล่าทั่ง">
+      <img src="https://i.postimg.cc/r0gRHpJk/image.jpg" alt="เมนูหมาล่าทั่ง">
       <div class="carousel-caption">
         <h2 class="fw-bold">เมนูหมาล่า</h2>
         <p>น้ำซุปเข้มข้น หอมกรุ่น ทานง่าย</p>
@@ -170,7 +169,7 @@
 
   <div class="row g-5 align-items-center mb-5">
     <div class="col-lg-6">
-      <img src="https://postimg.cc/McCQB4p4" alt="เต็มสิบ ชาบูชาม">
+      <img src="https://i.postimg.cc/McCQB4p4/image.jpg" class="img-fluid rounded shadow" alt="เต็มสิบ ชาบูชาม">
     </div>
     <div class="col-lg-6">
       <h2 class="fw-bold text-success mb-4">ทำไมต้องเต็มสิบชาบูชาม!!??</h2>
@@ -191,7 +190,7 @@
     <div class="row row-cols-1 row-cols-md-3 g-4">
       <div class="col">
         <div class="card shadow-sm h-100">
-          <img src="https://postimg.cc/t1pTHjJD" class="card-img-top" alt="เนื้อสัตว์หลากหลาย">
+          <img src="https://i.postimg.cc/t1pTHjJD/image.jpg" class="card-img-top" alt="เนื้อสัตว์หลากหลาย">
           <div class="card-body text-center">
             <h5 class="card-title fw-bold text-danger">เนื้อสัตว์หลากหลาย</h5>
             <p class="card-text text-muted">หมูสไลซ์🥓, เนื้อสไลซ์, เนื้อใบพาย, เนื้อริบอาย, ไส้เป็ด, ไก่, ไข่ ถูกใจคนรักเนื้อ</p>
@@ -201,7 +200,7 @@
 
       <div class="col">
         <div class="card shadow-sm h-100">
-          <img src="https://postimg.cc/YGyqgL3y" class="card-img-top" alt="ร้านอยู่ตรงข้าม ม.ศิลปากร">
+          <img src="https://i.postimg.cc/YGyqgL3y/image.jpg" class="card-img-top" alt="ร้านอยู่ตรงข้าม ม.ศิลปากร">
           <div class="card-body text-center">
             <h5 class="card-title fw-bold text-danger">ร้านอยู่ตรงข้าม ม.ศิลปากร</h5>
             <p class="card-text text-muted">📍พิกัดจ้า 🔶 ร้านเต็มสิบ ชาบูชาม "มองหาร้านสีส้มๆ 🔶" อยู่ตรงข้ามม.ศิลปากร หัวมุม ปากซอยทรงพลซอย 1 (ก่อนถึงพิซซ่าฮัท) ตรงข้ามสาธิตม.ศิลปากร</p>
@@ -211,7 +210,7 @@
 
       <div class="col">
         <div class="card shadow-sm h-100">
-          <img src="https://postimg.cc/RqyZZfqR" class="card-img-top" alt="น้ำซุปมี 9 แบบให้เลือก">
+          <img src="https://i.postimg.cc/RqyZZfqR/image.jpg" class="card-img-top" alt="น้ำซุปมี 9 แบบให้เลือก">
           <div class="card-body text-center">
             <h5 class="card-title fw-bold text-danger">น้ำซุปมีถึง 9 แบบให้เลือก</h5>
             <p class="card-text text-muted">ซุปใส, ซุปดำ, ซุปกระดูกหมู, หมาล่าต้นตำรับ, หมาล่านม, หมาล่าผัดแห้ง, ต้มยำ + หมาล่า, ซุปดำ + หมาล่า, ซุปกระดูกหมู + หมาล่า</p>

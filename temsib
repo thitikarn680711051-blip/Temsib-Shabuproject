@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>เต็มสิบ ชาบูชาม : Temsib Shabu 滿十涮鍋 นครปฐม</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;600&display=swap" rel="stylesheet" />
+
+  <style>
+    :root {
+      --su-green: #009966;
+      --mala-red: #e84e40;
+    }
+
+    body {
+      font-family: 'Kanit', sans-serif;
+      background-color: #f8f9fa;
+      color: #333;
+    }
+
+    .custom-header {
+      background: linear-gradient(90deg, #009966, #00ba7c);
+      padding: 1rem 0;
+    }
+
+    .nav-fb {
+      background-color: #fff;
+      color: var(--su-green) !important;
+      border-radius: 50px;
+      padding: 5px 18px !important;
+      font-weight: 600;
+      transition: 0.3s;
+    }
+
+    .nav-fb:hover {
+      background-color: #e9ecef;
+      transform: scale(1.05);
+    }
+
+    .carousel-item {
+      height: 500px;
+    }
+
+    .carousel-item img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      filter: brightness(0.7);
+    }
+
+    .carousel-caption {
+      background: rgba(0,0,0,0.4);
+      padding: 20px;
+      border-radius: 20px;
+      right: 5%;
+      bottom: 10%;
+      left: auto;
+      text-align: left;
+      max-width: 350px;
+      color: #fff;
+    }
+
+    .card {
+      border: none;
+      border-radius: 15px;
+      overflow: hidden;
+      transition: all 0.3s ease;
+      background: #fff;
+    }
+
+    .card:hover {
+      transform: translateY(-10px);
+      box-shadow: 0 12px 25px rgba(0,0,0,0.12);
+    }
+
+    .card-img-top {
+      height: 220px;
+      object-fit: cover;
+    }
+
+    .section-title {
+      position: relative;
+      padding-bottom: 10px;
+      margin-bottom: 30px;
+    }
+
+    .section-title::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 60px;
+      height: 3px;
+      background-color: var(--mala-red);
+    }
+
+    .price-tag {
+      background: linear-gradient(45deg, var(--su-green), #00ba7c);
+      color: white;
+      padding: 12px 30px;
+      border-radius: 50px;
+      display: inline-block;
+      font-size: 1.4rem;
+      font-weight: 600;
+      box-shadow: 0 4px 15px rgba(0, 153, 102, 0.3);
+    }
+
+    .custom-footer {
+      background: linear-gradient(90deg, #009966, #00ba7c);
+      color: white;
+    }
+  </style>
+</head>
+
+<body>
+
+<header class="custom-header shadow-sm sticky-top">
+  <div class="container d-flex justify-content-between align-items-center">
+    <h4 class="m-0 text-white fw-bold">เต็มสิบ ชาบูชาม : Temsib Shabu 滿十涮鍋 นครปฐม</h4>
+    <nav>
+      <ul class="nav align-items-center">
+        <li class="nav-item"><a href="index.html" class="nav-link text-white">หน้าแรก</a></li>
+        <li class="nav-item"><a href="https://www.facebook.com/profile.php?id=61578359523781&sk=photos&locale=th_TH" target="_blank" class="nav-link nav-fb">FB ร้าน</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<footer class="custom-footer text-center py-4 mt-5">
+  <div class="container">
+    <p class="m-0 fw-bold">Malatang Around Silpakorn Project</p>
+    <p class="mb-0">หน้านี้จัดทำโดย: ธิติกานต์ ปีตะนีลานนท์</p>
+    <p class="mb-0">รหัสนักศึกษา: 680711051</p>
+
+    <a href="index.html" class="btn btn-light mt-3">← กลับหน้าหลัก</a>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>

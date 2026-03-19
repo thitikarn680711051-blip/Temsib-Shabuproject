@@ -129,7 +129,7 @@
     <nav>
       <ul class="nav align-items-center">
         <li class="nav-item"><a href="index.html" class="nav-link text-white">หน้าแรก</a></li>
-        <li class="nav-item"><a href="https://www.facebook.com/profile.php?id=61578359523781&sk=photos&locale=th_TH" target="_blank" class="nav-link nav-fb">FB ร้าน</a></li>
+        <li class="nav-item"><a href="#" target="_blank" class="nav-link nav-fb">FB ร้าน</a></li>
       </ul>
     </nav>
   </div>
@@ -143,21 +143,21 @@
   </div>
   <div class="carousel-inner shadow-sm">
     <div class="carousel-item active">
-      <img src="https://scontent.fbkk13-1.fna.fbcdn.net/v/t39.30808-6/528822955_122113242980945317_2709438429717381341_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=1d70fc&_nc_eui2=AeHhY6zDBWYnI6wZI6CeychnhsIBiR4k-YeGwgGJHiT5h43SOFgfspngQH8Y_0lkBKm8R3lSnfzQv42qxvpzauih&_nc_ohc=vI82HXYzeK4Q7kNvwGdefFv&_nc_oc=Ado-gM5-U6ELNlRsVy6meXRksqH0oQulF2GLW6o5A6SKP-St2Eq2H80KY7l01gpAUG8&_nc_zt=23&_nc_ht=scontent.fbkk13-1.fna&_nc_gid=e8YUVKwVqlLArYMMj14E4A&_nc_ss=8&oh=00_Afwflf1WQXyWSaAwyh7sK7wfuqfSh8lgMVNnzAZe4y2Qcw&oe=69C2220B" alt="เต็มสิบ ชาบูชาม : Temsib Shabu 滿十涮鍋 นครปฐม">
+      <img src="https://via.placeholder.com/1200x500?text=Yo-i+Soup" alt="Yo-i Soup">
       <div class="carousel-caption">
         <h2 class="fw-bold">Yo-i Soup</h2>
         <p>⏰ เปิด 11.00 - 21.00 น. (ครัวปิด 20.30น.)</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/608239160_122116689561045631_6213000736901820922_n.jpg" alt="เต็มสิบ ชาบูชาม : Temsib Shabu 滿十涮鍋 นครปฐม">
+      <img src="https://via.placeholder.com/1200x500?text=Temsib+Shabu" alt="เต็มสิบ ชาบูชาม">
       <div class="carousel-caption">
-        <h2 class="fw-bold">เต็มสิบ ชาบูชาม : Temsib Shabu 滿十涮鍋 นครปฐม</h2>
-        <p>เต็มสิบ ชาบูชาม : Temsib Shabu 滿十涮鍋 นครปฐม🥢🔥</p>
+        <h2 class="fw-bold">เต็มสิบ ชาบูชาม : Temsib Shabu</h2>
+        <p>เต็มสิบ ชาบูชาม : Temsib Shabu 🥢🔥</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="https://scontent.fbkk14-1.fna.fbcdn.net/v/t39.30808-6/651417433_122125024617045631_2858364137710094619_n.jpg" alt="เมนูหมาล่า">
+      <img src="https://via.placeholder.com/1200x500?text=เมนูหมาล่า" alt="เมนูหมาล่า">
       <div class="carousel-caption">
         <h2 class="fw-bold">เมนูหมาล่า</h2>
         <p>น้ำซุปเข้มข้น หอมกรุ่น ทานง่าย</p>
@@ -176,7 +176,7 @@
 
   <div class="row g-5 align-items-center mb-5">
     <div class="col-lg-6">
-      <img src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/555549416_824001406729929_8121546554622362960_n.jpg" class="img-fluid rounded-4 shadow-lg" alt="เต็มสิบ ชาบูชาม : Temsib Shabu 滿十涮鍋 นครปฐม">
+      <img src="https://via.placeholder.com/600x400?text=Temsib+Shabu" class="img-fluid rounded-4 shadow-lg" alt="เต็มสิบ ชาบูชาม">
     </div>
     <div class="col-lg-6">
       <h2 class="fw-bold text-success mb-4">ทำไมต้องเต็มสิบชาบูชาม!!??</h2>
@@ -197,7 +197,7 @@
     <div class="row row-cols-1 row-cols-md-3 g-4">
       <div class="col">
         <div class="card shadow-sm h-100">
-          <img src="https://scontent.fbkk12-6.fna.fbcdn.net/v/t39.30808-6/539419237_122120432900945317_7638546471428075675_n.jpg" class="card-img-top" alt="เนื้อสัตว์หลากหลาย">
+          <img src="https://via.placeholder.com/400x220?text=เนื้อสัตว์" class="card-img-top" alt="เนื้อสัตว์หลากหลาย">
           <div class="card-body text-center">
             <h5 class="card-title fw-bold text-danger">เนื้อสัตว์หลากหลาย</h5>
             <p class="card-text text-muted">หมูสไลซ์🥓, เนื้อสไลซ์, เนื้อใบพาย, เนื้อริบอาย, ไส้เป็ด, ไก่, ไข่ ถูกใจคนรักเนื้อ</p>
@@ -207,7 +207,7 @@
 
       <div class="col">
         <div class="card shadow-sm h-100">
-          <img src="https://scontent.fbkk13-2.fna.fbcdn.net/v/t39.30808-6/632516247_122157394112945317_1885728595758438571_n.jpg" class="card-img-top" alt="ร้านอยู่ตรงข้าม ม.ศิลปากร">
+          <img src="https://via.placeholder.com/400x220?text=ร้านตรงข้ามม.ศิลปากร" class="card-img-top" alt="ร้านอยู่ตรงข้าม ม.ศิลปากร">
           <div class="card-body text-center">
             <h5 class="card-title fw-bold text-danger">ร้านอยู่ตรงข้าม ม.ศิลปากร</h5>
             <p class="card-text text-muted">📍พิกัดจ้า 🔶 ร้านเต็มสิบ ชาบูชาม "มองหาร้านสีส้มๆ 🔶" อยู่ตรงข้ามม.ศิลปากร หัวมุม ปากซอยทรงพลซอย 1 (ก่อนถึงพิซซ่าฮัท) ตรงข้ามสาธิตม.ศิลปากร</p>
@@ -217,7 +217,7 @@
 
       <div class="col">
         <div class="card shadow-sm h-100">
-          <img src="https://scontent.fbkk12-5.fna.fbcdn.net/v/t39.30808-6/556820109_122132847350945317_2249242543401174488_n.jpg" class="card-img-top" alt="น้ำซุปมี 9 แบบให้เลือก">
+          <img src="https://via.placeholder.com/400x220?text=น้ำซุป" class="card-img-top" alt="น้ำซุปมี 9 แบบให้เลือก">
           <div class="card-body text-center">
             <h5 class="card-title fw-bold text-danger">น้ำซุปมีถึง 9 แบบให้เลือก</h5>
             <p class="card-text text-muted">ซุปใส, ซุปดำ, ซุปกระดูกหมู, หมาล่าต้นตำรับ, หมาล่านม, หมาล่าผัดแห้ง, ต้มยำ + หมาล่า, ซุปดำ + หมาล่า, ซุปกระดูกหมู + หมาล่า</p>

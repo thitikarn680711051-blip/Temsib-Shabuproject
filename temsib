@@ -28,7 +28,7 @@
       border-radius: 50px;
       padding: 5px 18px !important;
       font-weight: 600;
-      transition: 0.3s;  }
+      transition: 0.3s; }
 
     .nav-fb:hover {
       background-color: #e9ecef;
@@ -38,8 +38,7 @@
       height: 500px; }
 
     @media (max-width: 768px) {
-      .carousel-item {
-        height: 300px; }
+      .carousel-item { height: 300px; }
     }
 
     .carousel-item img {
@@ -136,7 +135,7 @@
   </div>
   <div class="carousel-inner shadow-sm">
     <div class="carousel-item active">
-      <img src="https://i.postimg.cc/LJvDzmcC/image.jpg" alt="เต็มสิบ ชาบูชาม : Temsib Shabu">
+      <img src="https://i.postimg.cc/LJvDzmcC/image.jpg" alt="เต็มสิบ ชาบูชาม">
       <div class="carousel-caption">
         <h2 class="fw-bold">เต็มสิบ ชาบูชาม : Temsib Shabu 滿十涮鍋 นครปฐม</h2>
         <p>⏰ เปิด 11.00 - 21.00 น. (ครัวปิด 20.30น.)</p>
@@ -166,7 +165,6 @@
 </div>
 
 <main class="container py-5">
-
   <div class="row g-5 align-items-center mb-5">
     <div class="col-lg-6">
       <img src="https://i.postimg.cc/McCQB4p4/image.jpg" class="img-fluid rounded shadow" alt="เต็มสิบ ชาบูชาม">
@@ -197,41 +195,36 @@
           </div>
         </div>
       </div>
-
       <div class="col">
         <div class="card shadow-sm h-100">
           <img src="https://i.postimg.cc/YGyqgL3y/image.jpg" class="card-img-top" alt="ร้านอยู่ตรงข้าม ม.ศิลปากร">
           <div class="card-body text-center">
             <h5 class="card-title fw-bold text-danger">ร้านอยู่ตรงข้าม ม.ศิลปากร</h5>
-            <p class="card-text text-muted">📍พิกัดจ้า 🔶 ร้านเต็มสิบ ชาบูชาม "มองหาร้านสีส้มๆ 🔶" อยู่ตรงข้ามม.ศิลปากร หัวมุม ปากซอยทรงพลซอย 1 (ก่อนถึงพิซซ่าฮัท) ตรงข้ามสาธิตม.ศิลปากร</p>
+            <p class="card-text text-muted">📍พิกัดจ้า 🔶 ร้านเต็มสิบ ชาบูชาม อยู่ตรงข้ามม.ศิลปากร หัวมุม ปากซอยทรงพลซอย 1</p>
           </div>
         </div>
       </div>
-
       <div class="col">
         <div class="card shadow-sm h-100">
-          <img src="https://i.postimg.cc/RqyZZfqR/image.jpg" class="card-img-top" alt="น้ำซุปมี 9 แบบให้เลือก">
+          <img src="https://i.postimg.cc/RqyZZfqR/image.jpg" class="card-img-top" alt="น้ำซุปมี 9 แบบ">
           <div class="card-body text-center">
             <h5 class="card-title fw-bold text-danger">น้ำซุปมีถึง 9 แบบให้เลือก</h5>
-            <p class="card-text text-muted">ซุปใส, ซุปดำ, ซุปกระดูกหมู, หมาล่าต้นตำรับ, หมาล่านม, หมาล่าผัดแห้ง, ต้มยำ + หมาล่า, ซุปดำ + หมาล่า, ซุปกระดูกหมู + หมาล่า</p>
+            <p class="card-text text-muted">ซุปใส, ซุปดำ, ซุปกระดูกหมู, หมาล่าต้นตำรับ, หมาล่านม และอื่นๆ อีกมากมาย</p>
           </div>
         </div>
       </div>
     </div>
   </section>
-
 </main>
 
 <footer class="custom-footer text-center py-4 mt-5">
   <div class="container">
     <p class="m-0 fw-bold">Malatang Around Silpakorn Project</p>
-    <p class="mb-0">หน้านี้จัดทำโดย: ธิติกานต์ ปีตะนีลานนท์</p>
-    <p class="mb-0">รหัสนักศึกษา: 680711051</p>
+    <p class="mb-0">หน้านี้จัดทำโดย: ธิติกานต์ ปีตะนีลานนท์ | 680711051</p>
     <a href="index.html" class="btn btn-light mt-3">← กลับหน้าหลัก</a>
   </div>
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-
 </body>
 </html>

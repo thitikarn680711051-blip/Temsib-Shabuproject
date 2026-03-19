@@ -122,7 +122,7 @@
     <nav>
       <ul class="nav align-items-center">
         <li class="nav-item"><a href="index.html" class="nav-link text-white">หน้าแรก</a></li>
-        <li class="nav-item"><a href="#" target="_blank" class="nav-link nav-fb">FB ร้าน</a></li>
+        <li class="nav-item"><a href="https://www.facebook.com/profile.php?id=61578359523781" target="_blank" class="nav-link nav-fb">FB ร้าน</a></li>
       </ul>
     </nav>
   </div>
@@ -136,9 +136,10 @@
   </div>
   <div class="carousel-inner shadow-sm">
     <div class="carousel-item active">
-      <img src="https://via.placeholder.com/1200x500?text=Yo-i+Soup" alt="Yo-i Soup">
+      <img src="images/หน้าร้านเต้มสิบ.jpg" alt="
+เต็มสิบ ชาบูชาม : Temsib Shabu 滿十涮鍋 นครปฐม">
       <div class="carousel-caption">
-        <h2 class="fw-bold">Yo-i Soup</h2>
+        <h2 class="fw-bold">เต็มสิบ ชาบูชาม : Temsib Shabu 滿十涮鍋 นครปฐม</h2>
         <p>⏰ เปิด 11.00 - 21.00 น. (ครัวปิด 20.30น.)</p>
       </div>
     </div>

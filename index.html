@@ -9,7 +9,7 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
 
   <style>
-  
+    /* ปรับรูป carousel เต็มจอ ไม่มีขอบขาว */
     .carousel-item img {
       width: 100vw;
       height: 500px;
@@ -19,7 +19,7 @@
       padding: 0;
     }
 
-  
+    /* รูปการ์ดสูงเท่ากัน สวยงาม */
     .card img {
       width: 100%;
       height: 250px;
@@ -28,6 +28,7 @@
       display: block;
     }
 
+    /* การ์ดให้ความสูงเท่ากันทั้งแถว */
     .card {
       height: 100%;
       display: flex;
@@ -38,7 +39,7 @@
       flex-grow: 1;
     }
 
-
+    /* เอา padding ซ้าย-ขวา container รอบ carousel ออก */
     .carousel-container {
       padding-left: 0 !important;
       padding-right: 0 !important;
@@ -54,7 +55,7 @@
   <h4>Malatang Around Silpakorn</h4>
 </header>
 
-
+<!-- ครอบ carousel ด้วย container-fluid p-0 เพื่อเต็มจอ -->
 <div class="container-fluid p-0 carousel-container">
   <div id="malaCarousel" class="carousel slide"
        data-bs-ride="carousel"
@@ -100,34 +101,34 @@
 
   <div class="row g-4">
 
-  
+    <!-- ร้าน 1 -->
     <div class="col-md-4">
       <div class="card h-100">
         <img src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/555549416_824001406729929_8121546554622362960_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=cEKLD4B-gmoQ7kNvwE-Tmd8&_nc_oc=AdlnCGZFDSAp7Ap7e5TjSwepP-KUIpLG1-MH5GVVpuEGKr6wjKg3g8EgEE3EDvq3CQQ&_nc_zt=23&_nc_ht=scontent.fbkk10-1.fna&_nc_gid=mlt_yLgzPI1L5sFPcpDUHw&_nc_ss=8&oh=00_AfwDzmTvR75pXw6WKZhl-wcHkf_otWioOJVfZxmFLrEtKA&oe=69BB540C" class="card-img-top" alt="Yo-i soup" />
         <div class="card-body">
           <h5 class="card-title">Yo-i soup</h5>
           <p class="card-text">น้ำซุปเข้มข้น หอม กลมกล่อม มีเมนูให้เลือกหลากหลาย</p>
-          <a href="yo-i.html" class="btn btn-danger">ดูรายละเอียด</a>
+          <a href="#" class="btn btn-danger">ดูรายละเอียด</a>
         </div>
       </div>
     </div>
 
-   
+    <!-- ร้าน 2 -->
     <div class="col-md-4">
       <div class="card h-100">
         <img src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/528822955_122113242980945317_2709438429717381341_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=OjblpGckAdsQ7kNvwEmKklx&_nc_oc=AdmIYIIHphRzsJka1ao9LZja7BiI5dzROPyeYJIQBStqDyE855Ttrn7KyPYt0TeXt3E&_nc_zt=23&_nc_ht=scontent.fbkk10-1.fna&_nc_gid=pP8Wk-0M1reKeDZTNwLj3A&_nc_ss=8&oh=00_AfxpIcERUSenSIkQ7uWKDUHjUXm2LptMBmDJFuUfDRfjxQ&oe=69BB524B" class="card-img-top" alt="Temsib Shabu" />
         <div class="card-body">
           <h5 class="card-title">Temsib Shabu</h5>
           <p class="card-text">วัตถุดิบสดใหม่ น้ำซุปเข้มข้น เดินทางสะดวกอยู่ติดถนนใหญ่</p>
-          <a href="/temsib" class="btn btn-danger">ดูรายละเอียด</a>
+          <a href="#" class="btn btn-danger">ดูรายละเอียด</a>
         </div>
       </div>
     </div>
 
-  
+    <!-- ร้าน 3 -->
     <div class="col-md-4">
       <div class="card h-100">
-        <img src="https://scontent.fbkk14-1.fna.fbcdn.net/v/t39.30808-6/358659427_3086556074821202_8852225222669468658_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=Z9G4mH6jX-kQ7kNvwHvvIu5&_nc_oc=AdlBF7Om254oG9q-MAEDhdNQY-uD68WYOAU2QIs0lpgwqZXIYm0Vsvix6umtdJxgy_s&_nc_zt=23&_nc_ht=scontent.fbkk14-1.fna&_nc_gid=MEpij8r-MjLJ6ECYwvUwXQ&_nc_ss=8&oh=00_AfxyN6kPU_r5g926nCAShQFYpTDZhehI47w-OrOyFhHUNw&oe=69BB68ED" alt="ชินชิน เกาเหลาหมาล่าทั่ง" />
+        <img src="https://scontent.fbkk14-1.fna.fbcdn.net/v/t39.30808-6/358659427_3086556074821202_8852225222669468658_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=Z9G4mH6jX-kQ7kNvwHvvIu5&_nc_oc=AdlBF7Om254oG9q-MAEDhdNQY-uD68WYOAU2QIs0lpgwqZXIYm0Vsvix6umtdJxgy_s&_nc_zt=23&_nc_ht=scontent.fbkk14-1.fna&_nc_gid=MEpij8r-MjLJ6ECYwvUwXQ&_nc_ss=8&oh=00_AfxyN6kPU_r5g926nCAShQFYpTDZhehI47w-OrOyFhHUNw&oe=69BB68ED" width="250" class="card-img-top" alt="ชินชิน เกาเหลาหมาล่าทั่ง" />
         <div class="card-body">
           <h5 class="card-title">ชินชิน เกาเหลาหมาล่าทั่ง</h5>
           <p class="card-text">ร้านหมาล่าพร้อมโลโก้สุดคิ้ว เชิญให้เข้ามาลอง</p>
